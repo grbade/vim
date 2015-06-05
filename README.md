@@ -1,4 +1,4 @@
-# vim
+# Overview
 This is my vimrc. It's pretty basic. Plan is to add step by step usefull features.
 
 #Usage
